@@ -1,16 +1,72 @@
-# todo_app
+📋 To-Do App (Flutter)
 
-A new Flutter project.
+A simple and intuitive To-Do App built using Flutter that helps users manage their daily tasks efficiently.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+✅ Add new tasks
 
-A few resources to get you started if this is your first Flutter project:
+📝 Mark tasks as completed
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+❌ Delete tasks
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+💾 Persistent storage with Hive
+
+🎨 Clean and user-friendly UI
+
+🌓 Light & Dark mode support (if applicable)
+
+🛠️ Technologies Used
+
+Flutter (Dart)
+
+Hive (Local Storage)
+
+Provider (State Management)
+
+Flutter Slidable (Swipe to delete)
+
+📸 Screenshots
+
+(You can add screenshots here)
+
+🏗️ Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/ritikapriyadarshini/To_Do_App_Flutter.git
+
+Navigate to the project directory:
+
+cd To_Do_App_Flutter
+
+Install dependencies:
+
+flutter pub get
+
+Run the app:
+
+flutter run
+
+📂 Project Structure
+
+To_Do_App_Flutter/
+│── lib/
+│   ├── main.dart
+│   ├── home_page.dart
+│   ├── todo_tile_page.dart
+│   ├── dialog_box.dart
+│── assets/
+│── pubspec.yaml
+│── README.md
+
+🤝 Contributing
+
+Contributions are welcome! Feel free to fork the repo and submit a pull request.
+
+📜 License
+
+This project is open-source and available under the MIT License.
+
+Developed with ❤️ by Ritika Priyadarshini 🚀
+
