@@ -2,6 +2,7 @@
 
 A simple and intuitive To-Do App built using Flutter that helps users manage their daily tasks efficiently.
 
+
 🚀 Features
 
 ✅ Add new tasks
@@ -16,6 +17,7 @@ A simple and intuitive To-Do App built using Flutter that helps users manage the
 
 🌓 Light & Dark mode support (if applicable)
 
+
 🛠️ Technologies Used
 
 Flutter (Dart)
@@ -26,9 +28,7 @@ Provider (State Management)
 
 Flutter Slidable (Swipe to delete)
 
-📸 Screenshots
 
-(You can add screenshots here)
 
 🏗️ Installation & Setup
 
@@ -48,6 +48,7 @@ Run the app:
 
 flutter run
 
+
 📂 Project Structure
 
 To_Do_App_Flutter/
@@ -60,9 +61,11 @@ To_Do_App_Flutter/
 │── pubspec.yaml
 │── README.md
 
+
 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
+
 
 📜 License
 
